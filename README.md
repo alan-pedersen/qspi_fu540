@@ -1,5 +1,5 @@
 # QSPI FU540
-This project is an independent implementation of the SiFive FU540 QSPI flash controller, designed for FPGAs and ASICs.
+An independent implementation of the SiFive FU540 QSPI flash controller, designed for FPGAs and ASICs.
 
 ## Dependencies
 You only need two tools to get started:
